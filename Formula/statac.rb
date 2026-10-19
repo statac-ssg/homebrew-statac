@@ -5,23 +5,23 @@ class Statac < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/statac-ssg/statac/releases/download/v0.5.0/statac-0.5.0-aarch64-apple-darwin.tar.gz"
-      sha256 "9d6221a5158d36e0646dde7f3f2dd833f27ed7db4a29cdab86244c7f2ae41aa7"
+      url "https://github.com/statac-ssg/statac/releases/download/v0.5.1/statac-0.5.1-aarch64-apple-darwin.tar.gz"
+      sha256 "1c9a59a217816a909b5e2eca564862c19fda71c75a2802fdd4c581d2957dc0a4"
     end
     on_intel do
-      url "https://github.com/statac-ssg/statac/releases/download/v0.5.0/statac-0.5.0-x86_64-apple-darwin.tar.gz"
-      sha256 "94a59163fc2618f1db06362317547fbd6d0d2ba16d85f82ed00a007f4dcdfb92"
+      url "https://github.com/statac-ssg/statac/releases/download/v0.5.1/statac-0.5.1-x86_64-apple-darwin.tar.gz"
+      sha256 "ebc9f8eb55b96e7ae1670bee1a1f44164e23dc541c919497fa374af36a5114ac"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/statac-ssg/statac/releases/download/v0.5.0/statac-0.5.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "6013926981aab36fca116c42ab94b4c620c4c488fdd9f84f3a001a688bf171a3"
+      url "https://github.com/statac-ssg/statac/releases/download/v0.5.1/statac-0.5.1-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "8d10fa9599f2550c2c760bfecaa7bedc58cb5a43df12d4072f2a3897b3f43fcd"
     end
     on_intel do
-      url "https://github.com/statac-ssg/statac/releases/download/v0.5.0/statac-0.5.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "f008872c7a597acbde3a978cda755746ba5f6c8916e6000b43a588371e6ff04f"
+      url "https://github.com/statac-ssg/statac/releases/download/v0.5.1/statac-0.5.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "0e7e2a7c962fb2923dd9c93b048bc819e34c9f5f6edf81c70843a5f6779b7a02"
     end
   end
 
