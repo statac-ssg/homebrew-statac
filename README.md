@@ -1,8 +1,8 @@
 # Homebrew tap for Statac
 
-Statac is a friendlier static site generator for personal websites. This
-tap installs its ready-built binary on macOS (Apple silicon and Intel) and
-Linux (x86-64 and arm64).
+Statac is a friendlier static site generator. This tap installs its
+ready-built binary on macOS (Apple silicon and Intel) and Linux (x86-64
+and arm64).
 
 ```sh
 brew tap statac/statac https://git.statac.dev/statac/homebrew-statac

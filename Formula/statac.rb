@@ -1,5 +1,5 @@
 class Statac < Formula
-  desc "Friendlier static site generator for personal websites"
+  desc "Friendlier static site generator"
   homepage "https://statac.dev"
   license any_of: ["MIT", "Apache-2.0"]
 
